@@ -6,7 +6,7 @@ Little tiny guide here.
 > Next, go to betas, and set beta participation to the beta branch. ![image](https://github.com/user-attachments/assets/c23e4710-3a44-4a66-815a-d7cb7e0e000e)
 
 
-> [!IMPORTANT]  
+> [!WARNING]  
 > If the game is launched in VR it should run normally. If not, it will give you a warning or two in the logs, and a popup on homescreen. If it doesn't it has been improperly loaded.
 
 
