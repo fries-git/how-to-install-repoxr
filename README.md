@@ -20,3 +20,7 @@ Hit browse profile folder.
 ![image](https://github.com/user-attachments/assets/6e1766d5-cb36-4bc9-a013-2072727a7ded)
 
 Now, simply add every file from the .zip into this folder. Done! Make sure you are on the beta version of the game. (0.13)
+
+Without VR the launch log and main menu look like this.
+![image](https://github.com/user-attachments/assets/6d5c0719-fa58-4d18-a12a-fc5dded9fe4e)
+![image](https://github.com/user-attachments/assets/1039a8af-4966-4a68-a166-8e38ab92e098)
