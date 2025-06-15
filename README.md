@@ -2,6 +2,11 @@
 Little tiny guide here.
 
 > [!IMPORTANT]  
+> Make sure the game is set in the Beta branch! To do this, hit the settings icon on the right side of the game in Steam, then hit properties. ![image](https://github.com/user-attachments/assets/276d1c4a-5a7e-4ab6-941d-d1c54adf1995)
+> Next, go to betas, and set beta participation to the beta branch. ![image](https://github.com/user-attachments/assets/c23e4710-3a44-4a66-815a-d7cb7e0e000e)
+
+
+> [!IMPORTANT]  
 > If the game is launched in VR it should run normally. If not, it will give you a warning or two in the logs, and a popup on homescreen. If it doesn't it has been improperly loaded.
 
 
