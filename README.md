@@ -1,6 +1,10 @@
 # how-to-install-repoxr
 Little tiny guide here.
 
+> [!IMPORTANT]  
+> If the game is launched in VR it should run normally. If not, it will give you a warning or two in the logs, and a popup on homescreen. If it doesn't it has been improperly loaded.
+
+
 To begin, navigate to the home page on the Thunderstore Mod Manager.
 ![image](https://github.com/user-attachments/assets/83da60e7-8133-4bc3-9e74-bec51e9bf5ba)
 
